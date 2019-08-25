@@ -17,7 +17,7 @@ importScripts(
   "/precache-manifest.a0c986d4d76e14ba7a6afd6b7eb82cbb.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "ge-helper"});
+//workbox.core.setCacheNameDetails({prefix: "ge-helper"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
